@@ -1,9 +1,5 @@
 # A/B Testing in Optimizing Ads
 
-> **Đồ án môn Python cho Khoa học dữ liệu**, lớp 22TTH, Khoa Toán – Tin học, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM.
-> Nhóm thực hiện: **Lâm Gia Bảo** (22110023) · **Trần Duy An** (22110008) · **Đậu Quang Anh** (22110014) · **Trần Quốc Danh** (22110035).
-> Giảng viên bộ môn: **ThS. Hà Văn Thảo**.
-
 Phân tích một thử nghiệm A/B của nhà bán lẻ giày trực tuyến: hai phiên bản quảng cáo (**nhóm A** và **nhóm B**) được chạy trên bốn nền tảng (**Google, Facebook, Twitter, Email**) suốt bảy ngày trong tuần. Mục tiêu là xác định phiên bản nào và nền tảng nào cho tỷ lệ nhấp chuột cao hơn, và khẳng định điều đó **có ý nghĩa thống kê** hay chỉ là dao động ngẫu nhiên.
 
 ## 📂 Dữ liệu
@@ -53,6 +49,4 @@ report/  AB_Testing_in_optimizing_ads.ipynb  toàn bộ phân tích + biểu đ�
 
 ## 📚 Tham khảo
 
-- Bài giảng môn *Python cho Khoa học dữ liệu* — ThS. Hà Văn Thảo.
-- Bài giảng môn *Xử lý số liệu thống kê* — TS. Tô Đức Khánh.
 - Project tham khảo: [pedramsafaeifar/Ad_Clicks___AB_Testing](https://github.com/pedramsafaeifar/Ad_Clicks___AB_Testing).
