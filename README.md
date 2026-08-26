@@ -4,7 +4,7 @@ Phân tích một thử nghiệm A/B của nhà bán lẻ giày trực tuyến: 
 
 ## 📂 Dữ liệu
 
-`data/ad_clicks.csv` — 1.654 người dùng, không có dòng trùng lặp.
+`data/ad_clicks.csv` — **1.654 người dùng**, không có dòng trùng lặp. Trong đó **565 người có nhấp chuột** (`ad_click_timestamp` khác rỗng) → tỷ lệ nhấp chung **34,2%**.
 
 | Cột | Ý nghĩa |
 | :--- | :--- |
