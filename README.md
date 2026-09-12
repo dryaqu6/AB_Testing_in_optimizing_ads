@@ -1,5 +1,7 @@
 # A/B Testing in Optimizing Ads
 
+> *2024 group course project (4 members), written in Vietnamese. Re-audited in 2026 — the notebook contains inference errors that are documented and corrected in this README.*
+
 > **Đồ án môn học "Python cho Khoa học dữ liệu", 2024 — 4 thành viên:** Lâm Gia Bảo (22110023), Trần Duy An (22110008), Đậu Quang Anh (22110014), Trần Quốc Danh (22110035).
 > **Về lịch sử commit:** toàn bộ commit trong repo này đứng tên tôi (Trần Duy An) vì tôi là người archive dự án lên GitHub một năm sau khi học xong. **Lịch sử commit không phản ánh phân công công việc.**
 > ⚠️ **Cảnh báo về nội dung:** đọc lại năm 2026, phần suy luận thống kê trong notebook có lỗi — xem mục [Hạn chế đã biết](#-hạn-chế-đã-biết) ở cuối. Đừng dùng kết luận trong notebook làm tham khảo.
